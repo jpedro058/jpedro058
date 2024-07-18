@@ -3,6 +3,7 @@ import { useState } from "react";
 import "../styles/portfolio.css";
 import weatherApp from "../assets/portfolio/weather.png";
 import findMyMovie from "../assets/portfolio/findmymovie.png";
+import findMyMovieMobile from "../assets/portfolio/findmymovieMobile.png";
 import gymApp from "../assets/portfolio/gym.png";
 import musicology from "../assets/portfolio/musicology.png";
 import filmLand from "../assets/portfolio/filmLand2.png";
@@ -22,11 +23,11 @@ export function Portfolio() {
     },
     {
       id: 2,
-      image: weatherApp,
-      title: "Weather App",
+      image: findMyMovieMobile,
+      title: "FindMyMovie Mobile",
       description:
-        "A weather app using the OpenWeather API and made with React. Because now the one call API is paid i can't show the forecast for the next 7 days as i had planned to do. But you can still see the current weather and a lot of other informations about the city you search for.",
-      link: "https://jpedro058.github.io/Weather-App/",
+        "A movie search mobile app built with React Native using the TheMovieDB API. This app allows you to search for movies and view their details, including cast information. You can also explore actor profiles, which include their biographies and filmographies.",
+      link: "https://github.com/jpedro058/FindMyMovie-Mobile",
     },
     {
       id: 3,
@@ -38,6 +39,15 @@ export function Portfolio() {
     },
     {
       id: 4,
+      image: weatherApp,
+      title: "Weather App",
+      description:
+        "A weather app using the OpenWeather API and made with React. Because now the one call API is paid i can't show the forecast for the next 7 days as i had planned to do. But you can still see the current weather and a lot of other informations about the city you search for.",
+      link: "https://jpedro058.github.io/Weather-App/",
+    },
+
+    {
+      id: 5,
       image: gymApp,
       title: "Gym App",
       description:
@@ -45,7 +55,7 @@ export function Portfolio() {
       link: "https://gym-jpedro058.vercel.app",
     },
     {
-      id: 5,
+      id: 6,
       image: musicology,
       title: "Musicology",
       description:
@@ -110,7 +120,7 @@ export function Portfolio() {
                       alt={item.title}
                       className="
                       min-w-full
-                      h-[25rem]
+                      h-[28rem]
                       object-fill
                       transition-all
                       ease-out
