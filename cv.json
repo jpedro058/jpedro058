@@ -1,0 +1,328 @@
+{
+  "basics": {
+    "name": "João Laranjeiro",
+    "label": "Junior Software Engineer",
+    "image": "/me_avatar.jpg",
+    "email": "contact@jplaranjeiro.dev",
+    "url": "https://jplaranjeiro.dev",
+    "summary": "Passionate Software Engineer with a strong foundation in software development and programming. Experienced in developing web applications and software solutions using modern technologies. Skilled in collaborating with cross-functional teams to deliver high-quality software products.",
+    "theme": "dark",
+    "location": {
+      "address": "",
+      "city": "Coimbra",
+      "countryCode": "PT",
+      "region": "Portugal"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "joão-laranjeiro",
+        "url": "https://www.linkedin.com/in/joão-laranjeiro/"
+      },
+      {
+        "network": "GitHub",
+        "username": "jpedro058",
+        "url": "https://github.com/jpedro058"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "name": "Statistics Module",
+      "position": "Web Developer",
+      "location_type": "On site",
+      "location": "Viseu, Portugal ",
+      "url": "https://tomiworld.com/",
+      "startDate": "2024-02-01",
+      "endDate": "2024-06-04",
+      "summary": "Development of a statistical analysis and reporting module that aggregates usage data, visualization data, content production and audience analysis, all obtained through the REST API, also worked on the development of a user-interactive highlights section.",
+      "highlights": [
+        "Improved website performance by optimizing code"
+      ],
+      "responsibilities": [
+        "Collaborated with senior developers to design and implement solutions.",
+        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
+        "Participated in code reviews and contributed to improving coding standards within the team."
+      ],
+      "achievements": [
+        "Completed a major project ahead of schedule."
+      ],
+      "skills": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "Git"
+      ]
+    },
+    {
+      "name": "Integrated Project",
+      "position": "Full Stack Developer",
+      "location": "Viseu, Portugal",
+      "url": "https://softinsa.almeidx.dev",
+      "startDate": "2022-09-01",
+      "endDate": "2023-07-01",
+      "summary": "Softinsa Integrated Opportunities and Offers’ Management System.",
+      "highlights": [
+        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+      ],
+      "responsibilities": [
+        "Designing the UI/UX of applications.",
+        "Developing the frontend (web) and the mobile application.",
+        "Assisting planning and in the development of the database."
+      ],
+      "achievements": [
+        "Successfully implemented all the features."
+      ],
+      "skills": [
+        "React",
+        "JavaScript",
+        "Figma",
+        "Bootstrap",
+        "Express",
+        "PostgreSQL",
+        "Kotlin",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidade de Coimbra",
+      "url": "https://www.uc.pt/",
+      "area": "Computer Science - Computer Engineering",
+      "studyType": "Master's Degree",
+      "startDate": "2024"
+    },
+    {
+      "institution": "Escola Superior de Tecnologia e Gestão de Viseu",
+      "url": "https://www.di.estgv.ipv.pt/Dep/di/web/?pagina=-EI-",
+      "area": "Computer Science",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2021",
+      "endDate": "2024"
+    },
+    {
+      "institution": "Escola Secundária Jaime Cortesão",
+      "url": "https://www.aecoimbracentro.pt/",
+      "area": "Science and Technology",
+      "startDate": "2018",
+      "endDate": "2021",
+      "score": "3.7"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "NextLevelWeek Journey - Nodejs",
+      "date": "2024",
+      "issuer": "Online University",
+      "url": "https://app.rocketseat.com.br/certificates/cf7aa6d3-78b8-4d6c-a930-54a359e998e1"
+    },
+    {
+      "name": "NextLevelWeek Journey - Reacjs",
+      "date": "2024",
+      "issuer": "Online University",
+      "url": "https://app.rocketseat.com.br/certificates/0fe2a666-f9de-4d0c-b54a-8b06f20cffcb"
+    },
+    {
+      "name": "NextLevelWeek Unite - Nodejs",
+      "date": "2024",
+      "issuer": "Online University",
+      "url": "https://app.rocketseat.com.br/certificates/542dfd83-aa27-430e-b07e-2f61c7208806"
+    },
+    {
+      "name": "NextLevelWeek Unite - Reactjs",
+      "date": "2024",
+      "issuer": "Online University",
+      "url": "https://app.rocketseat.com.br/certificates/dd78aa3a-bf89-4ee7-a1c6-8a29870f08aa"
+    },
+    {
+      "name": "NextLevelWeek Journey - Reactjs",
+      "date": "2024",
+      "issuer": "Online University",
+      "url": "https://app.rocketseat.com.br/certificates/3c9a848b-06aa-4b0c-a32d-73de185aae01"
+    },
+    {
+      "name": "NextLevelWeek Journey - React Native",
+      "date": "2024",
+      "issuer": "Online University",
+      "url": "https://app.rocketseat.com.br/certificates/5b0fca49-40a6-419e-9936-f73d359cd490"
+    }
+  ],
+  "skills": [
+
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Prisma",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Database",
+        "ORM"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Filmland",
+      "isActive": true,
+      "description": "In this project i tried to recreate the UI of the filmland spirits website to improve my skills in React and CSS.",
+      "highlights": [
+        "Built with React and CSS"
+      ],
+      "url": "https://filmland.jplaranjeiro.dev",
+      "github": "https://github.com/jpedro058/filmland-spirits-UI"
+    },
+    {
+      "name": "TODO App",
+      "isActive": false,
+      "description": "A simple task management app to keep track of daily tasks with user authentication.",
+      "highlights": [
+        "Multiple user support",
+        "Google OAuth"
+      ],
+      "github": "https://github.com/jpedro058/todo-app-with-authentication"
+    },
+    {
+      "name": "Weather App",
+      "isActive": true,
+      "description": "A weather app using the OpenWeather API and made with React. Because now the one call API is paid i can't show the forecast for the next 7 days as i had planned to do. But you can still see the current weather and a lot of other informations about the city you search for.",
+      "highlights": [
+        "Search for cities",
+        "See the current weather & other informations"
+      ],
+      "url": "https://jpedro058.github.io/Weather-App/",
+      "github": "https://github.com/jpedro058/Weather-App"
+    },
+    {
+      "name": "findMyMovie",
+      "isActive": true,
+      "description": "A movie search app using the OMDB API and made with React. In this website you can search for a movie and see a lot of the details about it. Unfortunately we can't see the movie it self but who knows... maybe in the future.",
+      "highlights": [
+        "Search for movies",
+        "See details about the movie"
+      ],
+      "url": "https://jpedro058.github.io/FindMyMovie/",
+      "github": "https://github.com/jpedro058/FindMyMovie"
+    }
+  ]
+}
