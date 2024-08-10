@@ -112,6 +112,12 @@
   ],
   "certificates": [
     {
+      "name": "Go React - Go React",
+      "date": "2024",
+      "issuer": "Online University",
+      "url": "https://app.rocketseat.com.br/certificates/a3e51ce8-ce84-4f0c-9f25-612566fd9419"
+    },
+    {
       "name": "NextLevelWeek Journey - Nodejs",
       "date": "2024",
       "issuer": "Online University",
@@ -295,9 +301,10 @@
     {
       "name": "TODO App",
       "isActive": false,
-      "description": "A simple task management app to keep track of daily tasks with user authentication.",
+      "description": "A task management app to keep track of daily tasks with user authentication.",
       "highlights": [
         "Multiple user support",
+        "Tasks alerts",
         "Google OAuth"
       ],
       "github": "https://github.com/jpedro058/todo-app-with-authentication"
