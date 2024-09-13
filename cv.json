@@ -112,6 +112,12 @@
   ],
   "certificates": [
     {
+      "name": "NextLevelWeek Pocket: Javascript - Full-stack Intermediário",
+      "date": "2024",
+      "issuer": "Online University",
+      "url": "https://app.rocketseat.com.br/certificates/a3e51ce8-ce84-4f0c-9f25-612566fd9419"
+    },
+    {
       "name": "Go React - Go React",
       "date": "2024",
       "issuer": "Online University",
