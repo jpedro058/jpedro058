@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile! <img src="https://komarev.com/ghpvc/?username=jpedro058" alt="" />
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=almeidx&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=almeidx&theme=dark&hide_border=true&layout=compact&langs_count=6">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jpedro058&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpedro058&theme=dark&hide_border=true&layout=compact&langs_count=6">
 
 Hi 👋, I'm a college student and hobbyist developer based in <img width="20" align="center" src="https://img.icons8.com/color/96/000000/portugal.png"/> **Portugal**.
 
