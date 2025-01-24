@@ -336,6 +336,26 @@
       ],
       "url": "https://jpedro058.github.io/FindMyMovie/",
       "github": "https://github.com/jpedro058/FindMyMovie"
+    },
+    {
+      "name": "Musicology",
+      "isActive": true,
+      "description": "A simple landing page for a music app.",
+      "highlights": [
+        "Responsive design"
+      ],
+      "url": "https://musicology-tau.vercel.app",
+      "github": "https://github.com/jpedro058/musicology"
+    },
+    {
+      "name": "Gym Page",
+      "isActive": true,
+      "description": "A gym page with a lot of informations about the gym and the services they provide.",
+      "highlights": [
+        "Responsive design"
+      ],
+      "url": "https://gym-jpedro058.vercel.app",
+      "github": "https://github.com/jpedro058/gym"
     }
   ]
 }
