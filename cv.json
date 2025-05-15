@@ -28,8 +28,34 @@
   },
   "experience": [
     {
+      "name": "BRNDTS",
+      "position": "Frontend Developer",
+      "location_type": "On site",
+      "location": "Coimbra, Portugal ",
+      "url": "https://brndts.com/",
+      "startDate": "2025-03-01",
+      "summary": "As a Full-Stack Developer at BRNDTS, I develop and maintain scalable, high-performance web applications that support our AI-driven advertising technology. Working across both front-end and back-end systems, I help ensure seamless integration, user-friendly design, and reliable functionality in support of BRNDTS’s mission to transform video monetization in sports and media platforms.",
+      "highlights": [
+        "Developed integration tests for the front-end and back-end systems.",
+        "Worked on bug fixes and performance improvements for existing applications."
+      ],
+      "responsibilities": [
+        "Collaborated with senior developers to design and implement solutions.",
+        "Assisted in debugging and optimizing code to ensure smooth user experiences."
+      ],
+      "achievements": [
+        "Completed a major project ahead of schedule."
+      ],
+      "skills": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "Git"
+      ]
+    },
+    {
       "name": "Statistics Module",
-      "position": "Web Developer",
+      "position": "Flullstack Developer",
       "location_type": "On site",
       "location": "Viseu, Portugal ",
       "url": "https://tomiworld.com/",
@@ -100,14 +126,6 @@
       "studyType": "Bachelor's Degree",
       "startDate": "2021",
       "endDate": "2024"
-    },
-    {
-      "institution": "Escola Secundária Jaime Cortesão",
-      "url": "https://www.aecoimbracentro.pt/",
-      "area": "Science and Technology",
-      "startDate": "2018",
-      "endDate": "2021",
-      "score": "3.7"
     }
   ],
   "certificates": [
@@ -336,26 +354,6 @@
       ],
       "url": "https://jpedro058.github.io/FindMyMovie/",
       "github": "https://github.com/jpedro058/FindMyMovie"
-    },
-    {
-      "name": "Musicology",
-      "isActive": true,
-      "description": "A simple landing page for a music app.",
-      "highlights": [
-        "Responsive design"
-      ],
-      "url": "https://musicology-tau.vercel.app",
-      "github": "https://github.com/jpedro058/musicology"
-    },
-    {
-      "name": "Gym Page",
-      "isActive": true,
-      "description": "A gym page with a lot of informations about the gym and the services they provide.",
-      "highlights": [
-        "Responsive design"
-      ],
-      "url": "https://gym-jpedro058.vercel.app",
-      "github": "https://github.com/jpedro058/gym"
     }
   ]
 }
