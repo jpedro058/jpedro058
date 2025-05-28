@@ -29,7 +29,7 @@
   "experience": [
     {
       "name": "BRNDTS",
-      "position": "Frontend Developer",
+      "position": "Fullstack Developer",
       "location_type": "On site",
       "location": "Coimbra, Portugal ",
       "url": "https://brndts.com/",
@@ -55,7 +55,7 @@
     },
     {
       "name": "Statistics Module",
-      "position": "Flullstack Developer",
+      "position": "Frontend Developer",
       "location_type": "On site",
       "location": "Viseu, Portugal ",
       "url": "https://tomiworld.com/",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Integrated Project",
-      "position": "Full Stack Developer",
+      "position": "Fullstack Developer",
       "location": "Viseu, Portugal",
       "url": "https://softinsa.almeidx.dev",
       "startDate": "2022-09-01",
@@ -331,18 +331,20 @@
         "Tasks alerts",
         "Google OAuth"
       ],
+      "url": "https://github.com/jpedro058/todo-app-with-authentication",
       "github": "https://github.com/jpedro058/todo-app-with-authentication"
     },
     {
-      "name": "Weather App",
+      "name": "Softinsa Management System",
       "isActive": true,
-      "description": "A weather app using the OpenWeather API and made with React. Because now the one call API is paid i can't show the forecast for the next 7 days as i had planned to do. But you can still see the current weather and a lot of other informations about the city you search for.",
+      "description": "A management system for Softinsa that allows users to manage opportunities and offers, including a dashboard with statistics and a user-interactive highlights section.",
       "highlights": [
-        "Search for cities",
-        "See the current weather & other informations"
+        "Full-stack development",
+        "User-friendly interface",
+        "Database management"
       ],
-      "url": "https://jpedro058.github.io/Weather-App/",
-      "github": "https://github.com/jpedro058/Weather-App"
+      "url": "https://github.com/almeidx/ipv-pint-2023",
+      "github": "https://github.com/almeidx/ipv-pint-2023"
     },
     {
       "name": "findMyMovie",
